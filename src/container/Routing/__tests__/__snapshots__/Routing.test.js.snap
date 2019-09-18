@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Routing /> renders correctly 1`] = `
+<BrowserRouter>
+  <Switch>
+    <Route
+      component={[Function]}
+      exact={true}
+      path="/login"
+    />
+    <AuthRoute
+      component={[Function]}
+      path="/"
+    />
+    <Redirect
+      to="/"
+    />
+  </Switch>
+</BrowserRouter>
+`;

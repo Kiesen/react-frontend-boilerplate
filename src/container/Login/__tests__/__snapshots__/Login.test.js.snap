@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Login /> renders correctly 1`] = `
+<WithStyles(ForwardRef(Grid))
+  className="makeStyles-root-1"
+>
+  <WithStyles(ForwardRef(Grid))
+    alignItems="center"
+    container={true}
+    justify="center"
+  >
+    <WithStyles(ForwardRef(Card))>
+      <WithStyles(ForwardRef(CardContent))>
+        <h1>
+          client:headline.login
+        </h1>
+      </WithStyles(ForwardRef(CardContent))>
+      <WithStyles(ForwardRef(CardContent))>
+        <form
+          noValidate={true}
+        >
+          <WithStyles(ForwardRef(TextField))
+            error={false}
+            fullWidth={true}
+            helperText=""
+            label="client:form.label.email"
+            margin="normal"
+            name="email"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onKeyPress={[Function]}
+            type="email"
+            value=""
+            variant="outlined"
+          />
+          <WithStyles(ForwardRef(TextField))
+            error={false}
+            fullWidth={true}
+            helperText=""
+            label="client:form.label.password"
+            margin="normal"
+            name="password"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onKeyPress={[Function]}
+            type="password"
+            value=""
+            variant="outlined"
+          />
+        </form>
+      </WithStyles(ForwardRef(CardContent))>
+      <WithStyles(ForwardRef(CardContent))>
+        <WithStyles(ForwardRef(Button))
+          color="primary"
+          fullWidth={true}
+          onClick={[Function]}
+          variant="contained"
+        >
+          client:button.login
+        </WithStyles(ForwardRef(Button))>
+      </WithStyles(ForwardRef(CardContent))>
+    </WithStyles(ForwardRef(Card))>
+  </WithStyles(ForwardRef(Grid))>
+  <Footer />
+</WithStyles(ForwardRef(Grid))>
+`;

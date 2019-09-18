@@ -1,0 +1,26 @@
+{
+  "headline": {
+    "login": "Login"
+  },
+  "button": {
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "form": {
+    "label": {
+      "email": "Email",
+      "password": "Password"
+    },
+    "errorText": {
+      "email": "Email is not valid",
+      "password": "Password is not valid"
+    }
+  },
+  "listItem": {
+    "user": "User",
+    "anonymous": "Anonymous"
+  },
+  "footer": {
+    "reference": "Built with ❤️"
+  }
+}

@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ListItem> renders correctly 1`] = `
+<WithStyles(ForwardRef(Card))>
+  <WithStyles(ForwardRef(CardContent))>
+    <WithStyles(ForwardRef(Typography))
+      color="textSecondary"
+      gutterBottom={true}
+    >
+      client:listItem.user
+       
+      client:listItem.anonymous
+    </WithStyles(ForwardRef(Typography))>
+    <WithStyles(ForwardRef(Typography))
+      component="h3"
+      variant="h5"
+    />
+    <WithStyles(ForwardRef(Typography))
+      color="textSecondary"
+      component="p"
+      variant="body2"
+    />
+  </WithStyles(ForwardRef(CardContent))>
+</WithStyles(ForwardRef(Card))>
+`;

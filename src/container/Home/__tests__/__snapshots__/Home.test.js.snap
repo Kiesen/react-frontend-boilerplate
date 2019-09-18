@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Home /> renders correctly 1`] = `
+<Fragment>
+  <Navigation />
+  <WithStyles(ForwardRef(Grid))
+    className="makeStyles-contentContainer-1"
+    container={true}
+  >
+    <WithStyles(ForwardRef(Grid))
+      alignItems="flex-end"
+      className="makeStyles-searchContainer-3"
+      container={true}
+      spacing={1}
+    >
+      <WithStyles(ForwardRef(Grid))
+        item={true}
+      >
+        <i
+          className="fas fa-search makeStyles-icon-4"
+        />
+      </WithStyles(ForwardRef(Grid))>
+      <WithStyles(ForwardRef(Grid))
+        item={true}
+      >
+        <WithStyles(ForwardRef(TextField))
+          id="input-with-icon-grid"
+          label="Search"
+          onChange={[Function]}
+        />
+      </WithStyles(ForwardRef(Grid))>
+    </WithStyles(ForwardRef(Grid))>
+  </WithStyles(ForwardRef(Grid))>
+  <Footer />
+</Fragment>
+`;

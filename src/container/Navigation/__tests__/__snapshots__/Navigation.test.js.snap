@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Navigation /> renders correctly 1`] = `
+<WithStyles(ForwardRef(AppBar))
+  position="sticky"
+>
+  <WithStyles(ForwardRef(Toolbar))
+    className="makeStyles-toolbar-1"
+  >
+    <WithStyles(ForwardRef(Grid))
+      container={true}
+      spacing={0}
+    >
+      <WithStyles(ForwardRef(Grid))
+        item={true}
+        xs={6}
+      >
+        <WithStyles(ForwardRef(Typography))
+          className="makeStyles-title-2"
+          variant="h6"
+        >
+          <Link
+            className="makeStyles-link-3"
+            to="/"
+          >
+            react-frontend-boilerplate
+          </Link>
+        </WithStyles(ForwardRef(Typography))>
+      </WithStyles(ForwardRef(Grid))>
+      <WithStyles(ForwardRef(Grid))
+        item={true}
+        xs={6}
+      >
+        <WithStyles(ForwardRef(Grid))
+          container={true}
+          justify="flex-end"
+        >
+          <WithStyles(ForwardRef(Button))
+            color="secondary"
+            onClick={[Function]}
+            variant="contained"
+          >
+            client:button.logout
+          </WithStyles(ForwardRef(Button))>
+        </WithStyles(ForwardRef(Grid))>
+      </WithStyles(ForwardRef(Grid))>
+    </WithStyles(ForwardRef(Grid))>
+  </WithStyles(ForwardRef(Toolbar))>
+</WithStyles(ForwardRef(AppBar))>
+`;
