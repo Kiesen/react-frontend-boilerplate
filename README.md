@@ -3,6 +3,7 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Kiesen/react-frontend-boilerplate/LICENSE)
 [![dependencies](https://david-dm.org/Kiesen/react-frontend-boilerplate.svg)](https://david-dm.org/Kiesen/react-frontend-boilerplate.svg)
 [![devDependencies](https://david-dm.org/Kiesen/react-frontend-boilerplate/dev-status.svg)](https://david-dm.org/Kiesen/react-frontend-boilerplate/dev-status.svg)
+[![Build Status](https://travis-ci.com/Kiesen/react-frontend-boilerplate.svg?branch=master)](https://travis-ci.com/Kiesen/react-frontend-boilerplate)
 
 Boilerplate for a react frontend with login and home view.
 
