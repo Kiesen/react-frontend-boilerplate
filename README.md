@@ -47,13 +47,13 @@ This command triggers the building process for the react application.
 npm run test:watch
 ```
 
-This command runs the jest test cases in watch mode
+This command runs the jest test cases in watch mode.
 
 ```
 npm run test:all
 ```
 
-This command runs all jest test cases
+This command runs all jest test cases.
 
 ```
 npm run test:coverage
