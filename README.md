@@ -5,7 +5,7 @@
 [![devDependencies](https://david-dm.org/Kiesen/react-frontend-boilerplate/dev-status.svg)](https://david-dm.org/Kiesen/react-frontend-boilerplate/dev-status.svg)
 [![Build Status](https://travis-ci.com/Kiesen/react-frontend-boilerplate.svg?branch=master)](https://travis-ci.com/Kiesen/react-frontend-boilerplate)
 
-Boilerplate for a react frontend with login and home view.
+Boilerplate code of a simple react frontend with login and home view.
 
 ## Getting Started
 
@@ -21,7 +21,7 @@ Versions below or above the prerequisites verions may work but are not tested.
 
 ### Installation
 
-First install all project dependencies packages with npm:
+First install all project dependencies with npm:
 
 ```
 npm install
@@ -29,13 +29,13 @@ npm install
 
 ### Usage
 
-After a succesfull installation you are able to do the following commands:
+After a succesfull installation you are able to execute the following commands:
 
 ```
 npm run start
 ```
 
-This command will start an development server on port 3000 of your local
+This command will start a development server on port 3000 of your local
 machine.
 
 ```
@@ -60,7 +60,7 @@ This command runs all jest test cases.
 npm run test:coverage
 ```
 
-This command runs all jest test cases and also creats an coverage report.
+This command runs all jest test cases and additionally creats a coverage report.
 
 ## Built With
 
